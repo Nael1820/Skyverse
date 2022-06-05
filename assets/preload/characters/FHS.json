@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "faker idle"
+		},
+		{
+			"offsets": [
+				-31,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FakerLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FakerDown"
+		},
+		{
+			"offsets": [
+				-20,
+				103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FakerUp"
+		},
+		{
+			"offsets": [
+				275,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FakerRight"
+		},
+		{
+			"offsets": [
+				22,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Devour",
+			"indices": [],
+			"name": "Devour"
+		},
+		{
+			"offsets": [
+				22,
+				260
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "Devour"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FakerHoldingSkyblue",
+	"position": [
+		980,
+		-130
+	],
+	"healthicon": "scrunkly",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		-430,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

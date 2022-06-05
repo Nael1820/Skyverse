@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SkychiIdle"
+		},
+		{
+			"offsets": [
+				-4,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SkychiLeft"
+		},
+		{
+			"offsets": [
+				7,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SkychiRight"
+		},
+		{
+			"offsets": [
+				30,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SkychiDown"
+		},
+		{
+			"offsets": [
+				39,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SkychiUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SkychiMO",
+	"position": [
+		100,
+		-40
+	],
+	"healthicon": "Skych",
+	"flip_x": true,
+	"healthbar_colors": [
+		82,
+		141,
+		180
+	],
+	"camera_position": [
+		-170,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
