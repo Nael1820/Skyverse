@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buildings.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg10000" x="4" y="4" width="3935" height="302" frameX="-1968" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10001" x="4" y="4" width="3935" height="302" frameX="-1901" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10002" x="4" y="4" width="3935" height="302" frameX="-1833" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10003" x="4" y="4" width="3935" height="302" frameX="-1765" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10004" x="4" y="4" width="3935" height="302" frameX="-1697" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10005" x="4" y="4" width="3935" height="302" frameX="-1629" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10006" x="4" y="4" width="3935" height="302" frameX="-1561" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10007" x="4" y="4" width="3935" height="302" frameX="-1493" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10008" x="4" y="4" width="3935" height="302" frameX="-1425" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10009" x="4" y="4" width="3935" height="302" frameX="-1357" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10010" x="4" y="4" width="3935" height="302" frameX="-1290" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10011" x="4" y="4" width="3935" height="302" frameX="-1222" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10012" x="4" y="4" width="3935" height="302" frameX="-1154" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10013" x="4" y="4" width="3935" height="302" frameX="-1086" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10014" x="4" y="4" width="3935" height="302" frameX="-1018" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10015" x="4" y="4" width="3935" height="302" frameX="-950" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10016" x="4" y="4" width="3935" height="302" frameX="-882" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10017" x="4" y="4" width="3935" height="302" frameX="-814" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10018" x="4" y="4" width="3935" height="302" frameX="-746" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10019" x="4" y="4" width="3935" height="302" frameX="-678" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10020" x="4" y="4" width="3935" height="302" frameX="-611" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10021" x="4" y="4" width="3935" height="302" frameX="-543" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10022" x="4" y="4" width="3935" height="302" frameX="-475" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10023" x="4" y="4" width="3935" height="302" frameX="-407" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10024" x="4" y="4" width="3935" height="302" frameX="-339" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10025" x="4" y="4" width="3935" height="302" frameX="-271" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10026" x="4" y="4" width="3935" height="302" frameX="-203" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10027" x="4" y="4" width="3935" height="302" frameX="-135" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10028" x="4" y="4" width="3935" height="302" frameX="-67" frameY="0" frameWidth="5903" frameHeight="302"/>
+	<SubTexture name="bg10029" x="4" y="326" width="3935" height="302" frameX="0" frameY="0" frameWidth="5903" frameHeight="302"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carBg.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="truck30000" x="4" y="4" width="1135" height="337" frameX="0" frameY="-3" frameWidth="1135" frameHeight="340"/>
+	<SubTexture name="truck30001" x="4" y="4" width="1135" height="337" frameX="0" frameY="-3" frameWidth="1135" frameHeight="340"/>
+	<SubTexture name="truck30002" x="4" y="4" width="1135" height="337" frameX="0" frameY="-3" frameWidth="1135" frameHeight="340"/>
+	<SubTexture name="truck30003" x="4" y="361" width="1135" height="336" frameX="0" frameY="0" frameWidth="1135" frameHeight="340"/>
+	<SubTexture name="truck30004" x="4" y="361" width="1135" height="336" frameX="0" frameY="0" frameWidth="1135" frameHeight="340"/>
+	<SubTexture name="truck30005" x="4" y="361" width="1135" height="336" frameX="0" frameY="0" frameWidth="1135" frameHeight="340"/>
+</TextureAtlas>

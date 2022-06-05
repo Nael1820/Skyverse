@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wall.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg30000" x="4" y="4" width="5598" height="440" frameX="-1298" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30001" x="4" y="4" width="5598" height="440" frameX="-1199" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30002" x="4" y="4" width="5598" height="440" frameX="-1099" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30003" x="4" y="4" width="5598" height="440" frameX="-999" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30004" x="4" y="4" width="5598" height="440" frameX="-899" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30005" x="4" y="4" width="5598" height="440" frameX="-799" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30006" x="4" y="4" width="5598" height="440" frameX="-699" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30007" x="4" y="4" width="5598" height="440" frameX="-599" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30008" x="4" y="4" width="5598" height="440" frameX="-500" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30009" x="4" y="4" width="5598" height="440" frameX="-400" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30010" x="4" y="4" width="5598" height="440" frameX="-300" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30011" x="4" y="4" width="5598" height="440" frameX="-200" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30012" x="4" y="4" width="5598" height="440" frameX="-100" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30013" x="4" y="4" width="5598" height="440" frameX="0" frameY="0" frameWidth="6896" frameHeight="440"/>
+	<SubTexture name="bg30014" x="4" y="464" width="2802" height="440" frameX="-1298" frameY="0" frameWidth="6896" frameHeight="440"/>
+</TextureAtlas>

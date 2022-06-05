@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trees.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg20000" x="4" y="4" width="3744" height="489" frameX="-1872" frameY="0" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20001" x="4" y="4" width="3744" height="489" frameX="-1755" frameY="0" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20002" x="4" y="4" width="3744" height="489" frameX="-1638" frameY="0" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20003" x="4" y="4" width="3744" height="489" frameX="-1521" frameY="0" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20004" x="4" y="4" width="3744" height="489" frameX="-1404" frameY="0" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20005" x="4" y="4" width="3744" height="489" frameX="-1287" frameY="0" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20006" x="4" y="4" width="3744" height="489" frameX="-1170" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20007" x="4" y="4" width="3744" height="489" frameX="-1053" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20008" x="4" y="4" width="3744" height="489" frameX="-936" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20009" x="4" y="4" width="3744" height="489" frameX="-819" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20010" x="4" y="4" width="3744" height="489" frameX="-702" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20011" x="4" y="4" width="3744" height="489" frameX="-585" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20012" x="4" y="4" width="3744" height="489" frameX="-468" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20013" x="4" y="4" width="3744" height="489" frameX="-351" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20014" x="4" y="4" width="3744" height="489" frameX="-234" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20015" x="4" y="4" width="3744" height="489" frameX="-117" frameY="-1" frameWidth="5616" frameHeight="489"/>
+	<SubTexture name="bg20016" x="4" y="513" width="3744" height="488" frameX="0" frameY="-1" frameWidth="5616" frameHeight="489"/>
+</TextureAtlas>

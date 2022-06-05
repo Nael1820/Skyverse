@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carFront.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="truck10000" x="4" y="4" width="1012" height="503" frameX="0" frameY="-2" frameWidth="1012" frameHeight="505"/>
+	<SubTexture name="truck10001" x="4" y="4" width="1012" height="503" frameX="0" frameY="-2" frameWidth="1012" frameHeight="505"/>
+	<SubTexture name="truck10002" x="4" y="4" width="1012" height="503" frameX="0" frameY="-2" frameWidth="1012" frameHeight="505"/>
+	<SubTexture name="truck10003" x="4" y="527" width="1012" height="503" frameX="0" frameY="0" frameWidth="1012" frameHeight="505"/>
+	<SubTexture name="truck10004" x="4" y="527" width="1012" height="503" frameX="0" frameY="0" frameWidth="1012" frameHeight="505"/>
+	<SubTexture name="truck10005" x="4" y="527" width="1012" height="503" frameX="0" frameY="0" frameWidth="1012" frameHeight="505"/>
+</TextureAtlas>

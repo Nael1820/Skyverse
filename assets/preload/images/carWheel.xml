@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carWheel.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="truck40000" x="4" y="4" width="223" height="225" frameX="-2" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40001" x="247" y="4" width="224" height="225" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40002" x="491" y="4" width="224" height="224" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40003" x="735" y="4" width="226" height="223" frameX="0" frameY="-1" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40004" x="4" y="249" width="226" height="223" frameX="0" frameY="-1" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40005" x="250" y="249" width="224" height="224" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40006" x="494" y="249" width="224" height="225" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40007" x="738" y="249" width="223" height="225" frameX="-2" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40008" x="4" y="494" width="224" height="225" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40009" x="248" y="494" width="225" height="224" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40010" x="493" y="494" width="226" height="223" frameX="0" frameY="-1" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40011" x="739" y="494" width="225" height="223" frameX="-1" frameY="-1" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40012" x="4" y="739" width="225" height="223" frameX="-1" frameY="-1" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40013" x="249" y="739" width="224" height="225" frameX="-1" frameY="0" frameWidth="226" frameHeight="225"/>
+	<SubTexture name="truck40014" x="493" y="739" width="223" height="225" frameX="-2" frameY="0" frameWidth="226" frameHeight="225"/>
+</TextureAtlas>
